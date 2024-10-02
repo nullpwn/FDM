@@ -1,0 +1,5 @@
+classifier_name,SVC
+library,sklearn
+C,4
+gamma,0.001
+kernel,rbf

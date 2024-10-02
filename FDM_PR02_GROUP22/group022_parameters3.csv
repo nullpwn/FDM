@@ -1,0 +1,5 @@
+classifier_name,KNeighborsClassifier
+library,sklearn
+metric,manhattan
+n_neighbors,3
+weights,distance

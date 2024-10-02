@@ -1,0 +1,5 @@
+classifier_name,RandomForestClassifier
+library,sklearn
+criterion,entropy
+max_depth,6
+n_estimators,200
